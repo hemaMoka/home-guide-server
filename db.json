@@ -1,0 +1,294 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "assets/popular-product/pro1.jpg",
+      "title": "Tornado TVC-180SD Vacuum Cleaner",
+      "desc": "Tornado TVC-180SD Vacuum Cleaner with Anti-Bacteria Filter - 1800 Watt - Dark Pink",
+      "price": 3249,
+      "category": "electronis"
+    },
+    {
+      "id": 2,
+      "image": "assets/popular-product/pro2.jpg",
+      "title": "Carrier Optimax",
+      "desc": "Carrier Optimax 53QHC18DN Cooling & Heating Split Air Conditioner - 2.25 HP - White",
+      "price": 2500,
+      "category": "electronis"
+    },
+    {
+      "id": 3,
+      "image": "assets/popular-product/pro3.jpg",
+      "title": "Nespresso",
+      "desc": "Nespresso D40-EU-BK-NE Inissia Coffee Machine - Black",
+      "price": 9860,
+      "category": "electronis"
+    },
+    {
+      "id": 4,
+      "image": "assets/popular-product/pro4.jpg",
+      "title": "Samsung UA65CU7000U",
+      "desc": "Samsung UA65CU7000U - 65-inch Crystal 4K UHD LED Smart TV",
+      "price": 20500,
+      "category": "electronis"
+    },
+    {
+      "id": 5,
+      "image": "assets/popular-product/pro5.jpg",
+      "title": "Samsung UA50CU8000",
+      "desc": "Samsung UA50CU8000 - 50-inch 4K Crystal UHD Smart TV",
+      "price": 30800,
+      "category": "electronis"
+    },
+    {
+      "id": 6,
+      "image": "assets/popular-product/pro6.jpg",
+      "title": "LG 50UR78006LL",
+      "desc": "LG 50UR78006LL - 50-inch 4K UHD Smart TV with Built-in Receiver",
+      "price": 17920,
+      "category": "electronis"
+    },
+    {
+      "id": 7,
+      "image": "assets/popular-product/pro7.jpg",
+      "title": "LG 65UR78006LL ",
+      "desc": "LG 65UR78006LL - 65-inch 4K UHD Smart TV with Built-in Receiver",
+      "price": 20999,
+      "category": "electronis"
+    },
+    {
+      "id": 8,
+      "image": "assets/popular-product/pro8.jpg",
+      "title": "Tornado TVC-180SD Vacuum Cleaner",
+      "desc": "Tornado TVC-180SD Vacuum Cleaner with Anti-Bacteria Filter - 1800 Watt - Dark Pink",
+      "price": 3249,
+      "category": "electronis"
+    },
+    {
+      "id": 9,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/31DJqP9Z7lL._AC_SX184_.jpg",
+      "title": "Grouhy electric water kettle, 1.8 litres, 1500 watts, stainless steel",
+      "des": "Grouhy electric water kettle, 1.8 litres, 1500 watts, stainless steel",
+      "price": 7000,
+      "category": "electronis"
+    },
+    {
+      "id": 10,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/31DJqP9Z7lL._AC_SX184_.jpg",
+      "title": "Grouhy electric water kettle, 1.8 litres, 1500 watts, stainless steel",
+      "des": "Grouhy electric water kettle, 1.8 litres, 1500 watts, stainless steel",
+      "price": 7000,
+      "category": "electronis"
+    },
+    {
+      "id": 11,
+      "image": "https://m.media-amazon.com/images/I/718fCoHSh4L._AC._SR360,460.jpg",
+      "title": "مقلاة من الحديد المصبوب مطلية بالمينا ومزودة بمقابض معدنية متكاملة، قطر 32 سم، لون اسود من لافا كوكوير",
+      "desc": "مقلاة من الحديد المصبوب مطلية بالمينا ومزودة بمقابض معدنية متكاملة، قطر 32 سم، لون اسود من لافا كوكوير",
+      "price": 1520,
+      "category": "kitchen"
+    },
+    {
+      "id": 12,
+      "image": "https://m.media-amazon.com/images/I/71wERy7iNmL._AC._SR360,460.jpg",
+      "title": "طقم اواني للطهي ماوري جرانيت مقاوم للالتصاق من بيدريني مكون من 9 قطع (حلة 20/24/28/طاسة قلي 24، 3 اغطية من الزجاج المقوى/ معلقة لتقليب الطعام / معلقة تقديم) - اسود",
+      "desc": "طقم اواني للطهي ماوري جرانيت مقاوم للالتصاق من بيدريني مكون من 9 قطع (حلة 20/24/28/طاسة قلي 24، 3 اغطية من الزجاج المقوى/ معلقة لتقليب الطعام / معلقة تقديم) - اسود",
+      "price": 4175,
+      "category": "kitchen"
+    },
+    {
+      "id": 13,
+      "image": "https://m.media-amazon.com/images/I/818e0h0Q5ML._AC._SR360,460.jpg",
+      "title": "طقم طاسات قلي مينيت مكون من 3 قطع مقاس 18-20-24 من تيفا",
+      "desc": "طقم طاسات قلي مينيت مكون من 3 قطع مقاس 18-20-24 من تيفا",
+      "price": 950,
+      "category": "kitchen"
+    },
+    {
+      "id": 14,
+      "image": "https://m.media-amazon.com/images/I/716ThZuFS9L._AC._SR360,460.jpg",
+      "title": "حلة للطهي من تروفال مقاس 18",
+      "desc": "حلة للطهي من تروفال مقاس 18",
+      "price": 220,
+      "category": "kitchen"
+    },
+    {
+      "id": 15,
+      "image": "https://m.media-amazon.com/images/I/81PR4lciEYL._AC._SR360,460.jpg",
+      "title": "طقم أواني للطهي جرانيت تيتانيوم مكون من 10 قطع (4 حلل بأغطية 18/20/24/30 وكسرولة 24 وشواية مزدوجة 36) من نيوكلاين - لون أوشن بلو",
+      "desc": "طقم أواني للطهي جرانيت تيتانيوم مكون من 10 قطع (4 حلل بأغطية 18/20/24/30 وكسرولة 24 وشواية مزدوجة 36) من نيوكلاين - لون أوشن بلو",
+      "price": 4750,
+      "category": "kitchen"
+    },
+    {
+      "id": 16,
+      "image": "https://m.media-amazon.com/images/I/71eld9xkDUL._AC._SR360,460.jpg",
+      "title": "مجموعة سبرينغ فوندو الكهربائية الاحترافية",
+      "desc": "مجموعة سبرينغ فوندو الكهربائية الاحترافية",
+      "price": 5400,
+      "category": "kitchen"
+    },
+    {
+      "id": 17,
+      "image": "https://m.media-amazon.com/images/I/71xHPNup8BL._AC_UL320_.jpg",
+      "title": "مجموعة ادوات توزيع متكاملة من 12 قطعة من شيف بوراك، مصنوعة من السيليكون الحراري بمقبض خشبي وحامل",
+      "desc": "مجموعة ادوات توزيع متكاملة من 12 قطعة من شيف بوراك، مصنوعة من السيليكون الحراري بمقبض خشبي وحامل",
+      "price": 448,
+      "category": "kitchen"
+    },
+    {
+      "id": 18,
+      "image": "https://m.media-amazon.com/images/I/61uPkm+3QxL._AC_UL320_.jpg",
+      "title": "طقم أواني طهي للمطبخ خفيفة الوزن ومثالية للتخييم والسفر، أواني طبخ للتخييم ولوازم المائدة البرية في الهواء الطلق، طقم آواني طهي برية",
+      "desc": "طقم أواني طهي للمطبخ خفيفة الوزن ومثالية للتخييم والسفر، أواني طبخ للتخييم ولوازم المائدة البرية في الهواء الطلق، طقم آواني طهي برية",
+      "price": 5750,
+      "category": "kitchen"
+    },
+    {
+      "id": 19,
+      "image": "https://m.media-amazon.com/images/I/61lFtznEdcL._AC_UL320_.jpg",
+      "title": "بخاخة زيت زيتون لاغراض الطهي والتحميص وتحضير السلطة والمشويات والمخبوزات، بلاستيك",
+      "desc": "بخاخة زيت زيتون لاغراض الطهي والتحميص وتحضير السلطة والمشويات والمخبوزات، بلاستيك",
+      "price": 50,
+      "category": "kitchen"
+    },
+    {
+      "id": 20,
+      "image": "https://m.media-amazon.com/images/I/61TOCPID9dL._AC_UL320_.jpg",
+      "title": "فلتر مياه باناسونيك",
+      "desc": "فلتر مياه باناسونيك",
+      "price": 1750,
+      "category": "kitchen"
+    },
+    {
+      "id": 21,
+      "image": "https://m.media-amazon.com/images/I/711SCZtJ-IL._AC_UL320_.jpg",
+      "title": "طقم سرير كبير تركي 270*240. 5قط",
+      "desc": "طقم سرير كبير تركي 270*240. 5قط",
+      "price": 450,
+      "category": "Furniture"
+    },
+    {
+      "id": 22,
+      "image": "https://m.media-amazon.com/images/I/81TEnHMLxXL._AC_UL320_.jpg",
+      "title": "طقم ملاية سرير مطبوعة من القطن التركي بتصميم ثلاثي الابعاد، 2725479539124",
+      "desc": "طقم ملاية سرير مطبوعة من القطن التركي بتصميم ثلاثي الابعاد، 2725479539124",
+      "price": 425,
+      "category": "Furniture"
+    },
+    {
+      "id": 23,
+      "image": "https://m.media-amazon.com/images/I/81PNB65YE1L._AC_UL320_.jpg",
+      "title": "طقم لحاف - قطن، نمط سادة - من تايجرز تريد لاينز (لون اسود، مقاس 240x180 سم، للغرف السينجل)",
+      "desc": "طقم لحاف - قطن، نمط سادة - من تايجرز تريد لاينز (لون اسود، مقاس 240x180 سم، للغرف السينجل)",
+      "price": 755,
+      "category": "Furniture"
+    },
+    {
+      "id": 24,
+      "image": "https://m.media-amazon.com/images/I/71-CyKrEg-L._AC_UL320_.jpg",
+      "title": "ملايات اطفال تركي 6 قطع 240*210",
+      "desc": "ملايات اطفال تركي 6 قطع 240*210",
+      "price": 480,
+      "category": "Furniture"
+    },
+    {
+      "id": 25,
+      "image": "https://m.media-amazon.com/images/I/71EKAEl7o9L._AC_UL320_.jpghttps://m.media-amazon.com/images/I/71EKAEl7o9L._AC_UL320_.jpg",
+      "title": "دفاية حرارية مايكروفايبر من مينترا - بينك، زهري",
+      "desc": "دفاية حرارية مايكروفايبر من مينترا - بينك، زهري",
+      "price": 161,
+      "category": "Furniture"
+    },
+    {
+      "id": 26,
+      "image": "https://m.media-amazon.com/images/I/7107268OglL._AC_UL320_.jpg",
+      "title": "ستارة تركي ناعمة بلون سادة، قطعتان، مقاس 150 × 270 سم",
+      "desc": "ستارة تركي ناعمة بلون سادة، قطعتان، مقاس 150 × 270 سم",
+      "price": 300,
+      "category": "Furniture"
+    },
+    {
+      "id": 27,
+      "image": "https://m.media-amazon.com/images/I/71dVXLVo50L._AC_UL320_.jpg",
+      "title": "غطاء كنب تركي قطن مطاطي اللون رمادي",
+      "desc": "غطاء كنب تركي قطن مطاطي اللون رمادي",
+      "price": 800,
+      "category": "Furniture"
+    },
+    {
+      "id": 28,
+      "image": "https://m.media-amazon.com/images/I/71wNCQ89FtL._AC_UL320_.jpg",
+      "title": "غطاء لحاف غسيل مزدوج الوجه من القطيفة",
+      "desc": "غطاء لحاف غسيل مزدوج الوجه من القطيفة",
+      "price": 2599,
+      "category": "Furniture"
+    },
+    {
+      "id": 29,
+      "image": "https://m.media-amazon.com/images/I/51n7sxZeS2L._AC_UL320_.jpg",
+      "title": "فوط سفرة بيضاء قماش قطن من فاطيما للمفروشات 01011121334",
+      "desc": "فوط سفرة بيضاء قماش قطن من فاطيما للمفروشات 01011121334",
+      "price": 460,
+      "category": "Furniture"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahim@mail.com",
+      "phone": "01284954021",
+      "password": "123456"
+    },
+    {
+      "name": "hamo",
+      "email": "hamo@mail.com",
+      "phone": "01284954021",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "card": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 1
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "product_id": 5
+    },
+    {
+      "user_id": 2,
+      "product_id": 2,
+      "count": 1,
+      "id": 3
+    },
+    {
+      "user_id": 2,
+      "product_id": 10,
+      "count": 1,
+      "id": 4
+    },
+    {
+      "user_id": 2,
+      "product_id": 1,
+      "count": 1,
+      "id": 5
+    },
+    {
+      "user_id": 2,
+      "product_id": 2,
+      "count": 1,
+      "id": 6
+    },
+    {
+      "user_id": 2,
+      "product_id": "4",
+      "count": 1,
+      "id": 7
+    }
+  ]
+}
