@@ -1,6 +1,6 @@
 {
   "products": [
-[
+
     {
         "id": 1,
         "images": "https://images.dubizzle.com.eg/thumbnails/45883434-400x300.jpeg",
@@ -176,7 +176,7 @@
         "price": 600,
         "address": "العباسية، القاهرة"
     }
-]
+
 
   ],
   "signup": [
